@@ -840,7 +840,8 @@
 
   .about-img img {
     width: 250px;
-    height: 250px;/
+    height: 250px;
+    margin: 2rem auto 0;
   }
 
 
@@ -869,6 +870,7 @@
     display: none;
   }
 }
+
 
 
 
