@@ -39,7 +39,7 @@
 
  body {	
   height: 100vh;
-  background: var(--background-image);
+  background: var(--primary-color) var(--background-image);
   padding: 50px 5%;
 }
 
@@ -859,3 +859,4 @@
     display: none;
   }
 }
+
