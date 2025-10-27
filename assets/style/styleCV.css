@@ -837,6 +837,12 @@
     justify-content: center;
     margin: 2rem auto 0;
   }
+	
+  .about-img .img-box {
+    width:250px;
+    height:250px;
+    margin: 0 auto;
+  }
 
   .about-img img {
     width: 300px;
@@ -870,6 +876,7 @@
     display: none;
   }
 }
+
 
 
 
