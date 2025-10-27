@@ -816,6 +816,16 @@
     margin-top: none;
   }
 
+  .home-img .img-box {
+    width: 40vw; 
+    height: 40vw; 
+    margin: 2rem auto; 
+  }
+
+  .home-img .img-box img {
+    width: 100%;
+    height: 100%;
+  }
   /* about section mobile layout */
   .about {
     flex-direction: column;
@@ -859,4 +869,5 @@
     display: none;
   }
 }
+
 
